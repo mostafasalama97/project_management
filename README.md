@@ -11,7 +11,6 @@ A full-stack project management application with backend services and a React-ba
    - [Backend Setup](#backend-setup)
    - [Frontend Setup](#frontend-setup)
 3. [Code Documentation](#code-documentation)
-4. [Testing](#testing)
 
 ---
 
